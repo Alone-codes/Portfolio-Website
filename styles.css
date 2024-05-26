@@ -647,11 +647,11 @@ input[type="file"] {
   width: 36%;
   background-image: url(assets/profile.png);
   background-repeat: no-repeat;
-  top: 3%;
+  top: 1%;
   height: 60%;
   margin-left: 60%;
   position: absolute;
-  bottom: 60%;
+  bottom: 40%;
 }
 
 .btn_resume {
