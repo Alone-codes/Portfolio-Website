@@ -648,10 +648,10 @@ input[type="file"] {
   background-image: url(assets/profile.png);
   background-repeat: no-repeat;
   top: 1%;
-  height: 60%;
+  height: 65%;
   margin-left: 60%;
   position: absolute;
-  bottom: 40%;
+  bottom: 55%;
 }
 
 .btn_resume {
